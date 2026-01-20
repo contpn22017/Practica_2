@@ -108,3 +108,10 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+### Enviar al GitHub
+```shell
+git remote add origin https://github.com/contpn22017/Practica_2
+git branch -M main
+git push -u origin main
+```
